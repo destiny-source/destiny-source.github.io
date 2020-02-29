@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.destinyxxy.xyz/"/>
-  <updated>2020-02-28T14:15:33.444Z</updated>
+  <updated>2020-02-29T04:19:59.402Z</updated>
   <id>https://www.destinyxxy.xyz/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.destinyxxy.xyz/2020/02/28/My-New-Post/"/>
     <id>https://www.destinyxxy.xyz/2020/02/28/My-New-Post/</id>
     <published>2020-02-28T13:20:36.000Z</published>
-    <updated>2020-02-28T14:15:33.444Z</updated>
+    <updated>2020-02-29T04:19:59.402Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="这是我的第一次发稿"><a href="#这是我的第一次发稿" class="headerlink" title="这是我的第一次发稿"></a>这是我的第一次发稿</h2><p>关于hexo弄到现在我也是身心俱疲 关于next这个主题在修改完后重新上传配置的过程中并不能使github库发生更新<br>#怀疑<br>怀疑是在con文件的配置过程中发生错误</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="这是我的第一次发稿"><a href="#这是我的第一次发稿" class="headerlink" title="这是我的第一次发稿"></a>这是我的第一次发稿</h2><p>关于hexo弄到现在我也是身心俱疲 关于next这个主题在修改完后重新上传配置的过程中并不能使github库发生更新<br>#怀疑<br>怀疑是在con文件的配置过程中发生错误<br>测试测试 这里是以及测试</p>]]></content>
     
     <summary type="html">
     
